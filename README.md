@@ -1,2 +1,3 @@
-These are the lecture notes for the Digital Logic Foundations course at Fudan University, taught by Prof. Yi.These notes may contain numerous errors, and I sincerely welcome and encourage readers to point them out and offer corrections.
+`2023《数字逻辑基础》学习笔记`是2023年秋季学期数字逻辑基础课程的课程笔记，该课程由复旦大学易婷老师教授，由郭睿康整理。
 
+`数学建模学习手册`中的内容涵盖了市面上主流的数学建模网课资源，包括`数学建模老哥`，`清风数模`等，由郭睿康整理，供数学建模学习参考。
